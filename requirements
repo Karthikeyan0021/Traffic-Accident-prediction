@@ -1,6 +1,5 @@
-
-pandas
-scikit-learn
-
-numpy
 streamlit
+pandas
+numpy
+scikit-learn
+joblib
